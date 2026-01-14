@@ -66,6 +66,8 @@ Used to demonstrate generic collections and type-safe container usage.
 ---
 
 ## Project Structure (Simplified)
+
+```
 HelloModernDelphi/
 ├── HelloModernDelphi.dpr
 ├── HelloModernDelphi.dproj
@@ -76,7 +78,7 @@ HelloModernDelphi/
 ├── uGenericsUtils.pas
 ├── uLogDemo.pas
 └── README.md
-
+```
 
 Each unit focuses on a small, well-defined concept.
 
